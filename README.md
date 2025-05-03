@@ -31,3 +31,6 @@ Update these values to match your server setup.
 1. Set up your server endpoint.
 2. Flash the firmware via Particle Workbench or Particle CLI on your Particle Electron device.
 3. Wait for incoming data.
+
+## 📜 License
+This project is open-source and licensed under the GNU General Public License v3.0. See the LICENSE file for details.
