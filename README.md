@@ -6,7 +6,6 @@ This project collects GPS data from [Particle Electron](https://docs.particle.io
 
 - Periodic GPS acquisition using `TinyGPS` and `AssetTracker`
 - Sends data to a configurable HTTP server
-- Publishes battery statistics via Particle Cloud function
 - Designed for low-power usage in the field
 
 ## Requirements
